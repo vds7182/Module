@@ -1,0 +1,2 @@
+player_live=11111111111111
+enemy_live=1
